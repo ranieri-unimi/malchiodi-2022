@@ -1,0 +1,5 @@
+pyspark
+findspark
+ipykernel
+kaggle
+pandas
